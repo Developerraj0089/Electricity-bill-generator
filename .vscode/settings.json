@@ -1,0 +1,20 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.33.jar",
+            "c:\\Users\\hp\\Downloads\\rs2xml.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\hp\\Downloads\\mysql-connector-java-8.0.28 (1).jar"
+        ]
+    },
+    "audioCues.diffLineDeleted": "off",
+    "audioCues.diffLineInserted": "off",
+    "audioCues.diffLineModified": "off",
+    "audioCues.lineHasBreakpoint": "off",
+    "audioCues.lineHasError": "off",
+    "audioCues.lineHasFoldedArea": "off",
+    "audioCues.lineHasInlineSuggestion": "off"
+}
